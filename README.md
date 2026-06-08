@@ -80,7 +80,7 @@ and prioritized highly relevant AI and ML candidates.
 
 ```text
 submission.csv
-ranking_model.ipynb
+redrob_candidate_ranking.ipynb
 README.md
 ```
 
