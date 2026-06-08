@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0002025,1,93.0,Senior AI Engineer | 5.9 yrs experience
+CAND_0077285,2,90.6,Recommendation Systems Engineer | 5.5 yrs experience
+CAND_0041669,3,87.7,Recommendation Systems Engineer | 8.0 yrs experience
+CAND_0011162,4,87.5,Recommendation Systems Engineer | 5.8 yrs experience
+CAND_0018549,5,87.3,Recommendation Systems Engineer | 6.8 yrs experience
+CAND_0046353,6,87.3,ML Engineer | 6.4 yrs experience
+CAND_0009691,7,86.4,Applied ML Engineer | 6.2 yrs experience
+CAND_0014440,8,86.4,Recommendation Systems Engineer | 6.4 yrs experience
+CAND_0029439,9,86.0,AI Specialist | 6.4 yrs experience
+CAND_0044222,10,86.0,AI Engineer | 7.7 yrs experience
+CAND_0010541,11,85.9,AI Research Engineer | 6.2 yrs experience
+CAND_0017590,12,85.6,AI Research Engineer | 5.1 yrs experience
+CAND_0098454,13,83.7,AI Specialist | 6.6 yrs experience
+CAND_0082086,14,83.5,Senior Software Engineer (ML) | 6.0 yrs experience
+CAND_0096142,15,83.4,Applied ML Engineer | 5.0 yrs experience
+CAND_0075249,16,83.2,Applied ML Engineer | 6.2 yrs experience
+CAND_0007567,17,83.0,AI Specialist | 6.1 yrs experience
+CAND_0054100,18,82.9,Junior ML Engineer | 6.0 yrs experience
+CAND_0061819,19,82.9,Junior ML Engineer | 5.0 yrs experience
+CAND_0071974,20,82.6,Senior AI Engineer | 7.8 yrs experience
+CAND_0001930,21,81.5,Senior Software Engineer (ML) | 6.9 yrs experience
+CAND_0015578,22,81.5,AI Engineer | 5.4 yrs experience
+CAND_0090155,23,81.4,ML Engineer | 5.8 yrs experience
+CAND_0018499,24,81.1,Senior Machine Learning Engineer | 7.2 yrs experience
+CAND_0086022,25,80.5,Senior Applied Scientist | 5.3 yrs experience
+CAND_0051292,26,80.2,Applied ML Engineer | 5.2 yrs experience
+CAND_0042506,27,79.8,Search Engineer | 4.2 yrs experience
+CAND_0077337,28,79.5,Staff Machine Learning Engineer | 7.0 yrs experience
+CAND_0061265,29,79.4,Recommendation Systems Engineer | 6.6 yrs experience
+CAND_0064326,30,79.4,Search Engineer | 7.6 yrs experience
+CAND_0006418,31,79.2,Machine Learning Engineer | 5.7 yrs experience
+CAND_0068811,32,79.2,Applied ML Engineer | 8.0 yrs experience
+CAND_0000031,33,79.1,Recommendation Systems Engineer | 6.0 yrs experience
+CAND_0028527,34,79.0,AI Specialist | 5.4 yrs experience
+CAND_0036184,35,79.0,Recommendation Systems Engineer | 6.0 yrs experience
+CAND_0011687,36,78.9,Senior NLP Engineer | 7.8 yrs experience
+CAND_0046525,37,78.8,Senior Machine Learning Engineer | 6.1 yrs experience
+CAND_0052682,38,78.8,NLP Engineer | 6.6 yrs experience
+CAND_0042100,39,78.7,Machine Learning Engineer | 7.3 yrs experience
+CAND_0078002,40,78.6,Machine Learning Engineer | 6.3 yrs experience
+CAND_0073314,41,78.4,Senior Software Engineer (ML) | 5.2 yrs experience
+CAND_0098217,42,78.4,ML Engineer | 6.4 yrs experience
+CAND_0024990,43,78.3,Junior ML Engineer | 5.2 yrs experience
+CAND_0073007,44,78.3,AI Specialist | 5.8 yrs experience
+CAND_0081053,45,78.3,NLP Engineer | 5.4 yrs experience
+CAND_0088025,46,78.3,Staff Machine Learning Engineer | 8.6 yrs experience
+CAND_0031752,47,78.2,ML Engineer | 5.0 yrs experience
+CAND_0032887,48,78.1,ML Engineer | 6.1 yrs experience
+CAND_0053591,49,78.1,AI Engineer | 5.3 yrs experience
+CAND_0070808,50,78.1,Junior ML Engineer | 6.8 yrs experience
+CAND_0070514,51,78.0,AI Specialist | 5.5 yrs experience
+CAND_0005311,52,77.9,AI Research Engineer | 5.7 yrs experience
+CAND_0025882,53,77.9,Senior Software Engineer (ML) | 5.6 yrs experience
+CAND_0005269,54,77.8,Senior Software Engineer (ML) | 6.1 yrs experience
+CAND_0062247,55,77.8,AI Engineer | 7.3 yrs experience
+CAND_0007412,56,77.6,Applied ML Engineer | 7.4 yrs experience
+CAND_0059017,57,77.5,AI Research Engineer | 6.8 yrs experience
+CAND_0002120,58,77.2,ML Engineer | 6.5 yrs experience
+CAND_0016163,59,77.2,Applied ML Engineer | 6.7 yrs experience
+CAND_0003841,60,77.1,ML Engineer | 5.0 yrs experience
+CAND_0078492,61,77.0,Recommendation Systems Engineer | 5.1 yrs experience
+CAND_0083307,62,77.0,Search Engineer | 7.8 yrs experience
+CAND_0014063,63,76.9,AI Specialist | 5.4 yrs experience
+CAND_0018094,64,76.9,ML Engineer | 5.2 yrs experience
+CAND_0038949,65,76.7,ML Engineer | 6.4 yrs experience
+CAND_0050454,66,76.7,AI Engineer | 6.8 yrs experience
+CAND_0050876,67,76.7,Applied ML Engineer | 6.0 yrs experience
+CAND_0008425,68,76.6,Senior NLP Engineer | 7.8 yrs experience
+CAND_0027801,69,76.5,NLP Engineer | 7.4 yrs experience
+CAND_0051466,70,76.5,AI Research Engineer | 5.3 yrs experience
+CAND_0091909,71,76.5,Machine Learning Engineer | 6.9 yrs experience
+CAND_0090584,72,76.4,ML Engineer | 5.1 yrs experience
+CAND_0066999,73,76.3,Recommendation Systems Engineer | 5.9 yrs experience
+CAND_0039383,74,76.1,Applied ML Engineer | 7.1 yrs experience
+CAND_0094759,75,76.1,Lead AI Engineer | 8.6 yrs experience
+CAND_0070398,76,76.0,Machine Learning Engineer | 7.2 yrs experience
+CAND_0081563,77,75.9,ML Engineer | 6.9 yrs experience
+CAND_0075574,78,75.8,Machine Learning Engineer | 5.7 yrs experience
+CAND_0060257,79,75.7,AI Specialist | 5.8 yrs experience
+CAND_0040178,80,75.5,ML Engineer | 5.0 yrs experience
+CAND_0072263,81,75.5,Senior Software Engineer (ML) | 6.7 yrs experience
+CAND_0032089,82,75.4,ML Engineer | 6.6 yrs experience
+CAND_0045862,83,75.4,AI Specialist | 6.7 yrs experience
+CAND_0006557,84,75.3,NLP Engineer | 7.9 yrs experience
+CAND_0037566,85,75.0,Machine Learning Engineer | 6.9 yrs experience
+CAND_0076831,86,75.0,Search Engineer | 4.0 yrs experience
+CAND_0089552,87,74.9,Machine Learning Engineer | 6.0 yrs experience
+CAND_0061175,88,74.8,AI Research Engineer | 6.7 yrs experience
+CAND_0000273,89,74.7,ML Engineer | 5.8 yrs experience
+CAND_0009024,90,74.6,Search Engineer | 5.2 yrs experience
+CAND_0084460,91,74.5,Senior Software Engineer (ML) | 5.6 yrs experience
+CAND_0021973,92,74.2,ML Engineer | 5.1 yrs experience
+CAND_0040200,93,74.2,AI Research Engineer | 5.5 yrs experience
+CAND_0064888,94,74.2,ML Engineer | 5.8 yrs experience
+CAND_0073883,95,74.2,AI Specialist | 5.3 yrs experience
+CAND_0008295,96,73.9,AI Research Engineer | 6.5 yrs experience
+CAND_0016659,97,73.9,ML Engineer | 4.4 yrs experience
+CAND_0065514,98,73.9,ML Engineer | 6.6 yrs experience
+CAND_0077498,99,73.9,Senior Software Engineer (ML) | 5.4 yrs experience
+CAND_0092568,100,73.9,AI Specialist | 5.7 yrs experience
